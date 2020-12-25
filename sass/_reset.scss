@@ -131,5 +131,11 @@ table {
 *:focus {
   outline: none;
 }
+a{
+  text-decoration: none;
+  &:hover{
+    text-decoration: underline;
+  }
+}
 
 /*# sourceMappingURL=reset.css.map */
