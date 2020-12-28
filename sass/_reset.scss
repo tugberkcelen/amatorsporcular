@@ -119,7 +119,7 @@ blockquote:after,
 blockquote:before,
 q:after,
 q:before {
-  content: "";
+  content: '';
   content: none;
 }
 
@@ -131,9 +131,9 @@ table {
 *:focus {
   outline: none;
 }
-a{
+a {
   text-decoration: none;
-  &:hover{
+  &:hover {
     text-decoration: underline;
   }
 }
