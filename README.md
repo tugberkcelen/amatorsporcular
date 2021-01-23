@@ -1,3 +1,3 @@
 # Amatör Sporcular
 
-Spor hakkında kendi tecrübelerimizi yayınlayacağımız blog.
+Spor hakkında kendi tecrübelerimizi yayınlayacağımız blog..
